@@ -1,6 +1,6 @@
-# Chomplate
+# Chomplate 🐊
 ## All Your Favorite Recipes in One Place
-## UF WiNGHacks Hackathon 2025
+## UF WiNGHacks Hackathon 2025 -- First Flight Award Winner 🥇
 
 ### Inspiration
 
