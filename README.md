@@ -1,6 +1,6 @@
 # Chomplate 🐊
 ## All Your Favorite Recipes in One Place
-## UF WiNGHacks Hackathon 2025 -- First Flight Award Winner 🥇
+## [UF WiNGHacks Hackathon 2025](https://devpost.com/software/chomplate?ref_content=my-projects-tab&ref_feature=my_projects) -- First Flight Award Winner 🥇
 
 ### Inspiration
 
