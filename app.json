@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "recipeapp",
-    "slug": "recipeapp",
+    "name": "Chomplate",
+    "slug": "Chomplate",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -14,7 +14,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#ffff"
       }
     },
     "web": {
