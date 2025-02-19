@@ -12,7 +12,7 @@ We decided to create a program where people could share their go-to recipes and 
 
 ### How we built it
 
-We decided to create an app using a JavaScript framework, React Native/Expo, to meet this project’s goals. Neither of us had coded in React Native before, but we were eager to learn about it and immediately rose to the challenge! We began by implementing React Navigation to create a foundation to build off of, then split the work between front-end and back-end. Jess primarily worked on the front-end, creating the different user interfaces, such as the recipe cards, recipe pages, and the new recipe form. Giovana focused on implementing the back-end logic and set up data management with Appetite, including fetching and storing the user’s inputs in the cloud to allow users to view each other’s recipes.
+We decided to create an app using a JavaScript framework, React Native/Expo, to meet this project’s goals. Neither of us had coded in React Native before, but we were eager to learn about it and immediately rose to the challenge! We began by implementing React Navigation to create a foundation to build off of, then split the work between front-end and back-end. Jess primarily worked on the front-end, creating the different user interfaces, such as the recipe cards, recipe pages, and the new recipe form. Giovana focused on implementing the back-end logic and set up data management with Appwrite, including fetching and storing the user’s inputs in the cloud to allow users to view each other’s recipes.
 
 ### Challenges we ran into
 
